@@ -1,12 +1,11 @@
 # EngageProject
 DEPENDENCIES:
-1. Python 3.x
-
-2.cmake
-3.dlib
-4.numpy
-5.opencv-python
-6. face-recognition
+1. python 3.x
+2. cmake
+3. dlib
+4. opencv-python
+5. face-recognition
+6. numpy
 
 DATASET:
 Add all the images you want to add ImagesAttendence folder
