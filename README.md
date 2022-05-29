@@ -1,8 +1,8 @@
 # EngageProject
 DEPENDENCIES:
 1. Python 3.x
-2. cmake
-3. dlib
+2.cmake
+3.dlib
 4.numpy
 5.opencv-python
 6. face-recognition
